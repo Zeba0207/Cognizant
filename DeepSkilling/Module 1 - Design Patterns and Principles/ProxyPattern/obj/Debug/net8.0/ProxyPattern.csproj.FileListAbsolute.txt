@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\ProxyPattern\ProxyPattern\bin\Debug\net8.0\ProxyPattern.exe
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\ProxyPattern\ProxyPattern\bin\Debug\net8.0\ProxyPattern.deps.json
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\ProxyPattern\ProxyPattern\bin\Debug\net8.0\ProxyPattern.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\ProxyPattern\ProxyPattern\bin\Debug\net8.0\ProxyPattern.dll
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\ProxyPattern\ProxyPattern\bin\Debug\net8.0\ProxyPattern.pdb
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\ProxyPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\ProxyPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\ProxyPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\ProxyPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\ProxyPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.dll
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\ProxyPattern\ProxyPattern\obj\Debug\net8.0\refint\ProxyPattern.dll
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\ProxyPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.pdb
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\ProxyPattern\ProxyPattern\obj\Debug\net8.0\ProxyPattern.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\ProxyPattern\ProxyPattern\obj\Debug\net8.0\ref\ProxyPattern.dll
