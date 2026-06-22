@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\bin\Debug\net8.0\AdapterPattern.exe
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\bin\Debug\net8.0\AdapterPattern.deps.json
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\bin\Debug\net8.0\AdapterPattern.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\bin\Debug\net8.0\AdapterPattern.dll
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\bin\Debug\net8.0\AdapterPattern.pdb
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.dll
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net8.0\refint\AdapterPattern.dll
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.pdb
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net8.0\AdapterPattern.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\AdapterPattern\AdapterPattern\obj\Debug\net8.0\ref\AdapterPattern.dll
