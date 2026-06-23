@@ -1,0 +1,14 @@
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\bin\Debug\net8.0\MVCPattern.exe
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\bin\Debug\net8.0\MVCPattern.deps.json
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\bin\Debug\net8.0\MVCPattern.runtimeconfig.json
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\bin\Debug\net8.0\MVCPattern.dll
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\bin\Debug\net8.0\MVCPattern.pdb
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net8.0\MVCPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net8.0\MVCPattern.AssemblyInfoInputs.cache
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net8.0\MVCPattern.AssemblyInfo.cs
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net8.0\MVCPattern.csproj.CoreCompileInputs.cache
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net8.0\MVCPattern.dll
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net8.0\refint\MVCPattern.dll
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net8.0\MVCPattern.pdb
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net8.0\MVCPattern.genruntimeconfig.cache
+C:\Users\zebaf\OneDrive\Documents\DN5\EngineeringConcepts\Module 1 - Design Patterns and Principles\MVCPattern\MVCPattern\obj\Debug\net8.0\ref\MVCPattern.dll
